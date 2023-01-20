@@ -7,9 +7,9 @@ public class string_function {
         System.out.println(abc.indexOf("Java"));
         // Заменить все символы “а” на “о”
         System.out.println(abc.replace("a", "o"));
-        // Преобразуйте строку к верхнему регистру
+        // Преобразуйте строку к верхнему регистру. toUpperCase()
         System.out.println(abc.toUpperCase());
-        // Преобразуйте строку к нижнему регистру
+        // Преобразуйте строку к нижнему регистру. toLowerCase()
         System.out.println(abc.toLowerCase());
         // Вырезать строку Java c помощью метода String.substring()
         String newString = abc.substring(abc.indexOf("Java"));
