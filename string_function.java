@@ -11,7 +11,7 @@ public class string_function {
         System.out.println(abc.toUpperCase());
         // Преобразуйте строку к нижнему регистру.
         System.out.println(abc.toLowerCase());
-        // Вырезать строку Java c помощью метода String.substring().
+        // Вырезать строку Java c помощью метода String.substring()
         String newString = abc.substring(abc.indexOf("Java"));
         System.out.println(newString.substring(0, newString.indexOf("!!!")));
     }
