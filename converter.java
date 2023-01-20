@@ -1,5 +1,5 @@
 import java.util.Scanner;
-// написал программу на российских единицах измерения
+// написал программу на российских единицах измерения. Прошу принять их. Суть мне вроде ясна
 public class converter {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
