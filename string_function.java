@@ -16,3 +16,4 @@ public class string_function {
         System.out.println(newString.substring(0, newString.indexOf("!!!")));
     }
 }
+
